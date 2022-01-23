@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Aqeela",
+    "img": "assets/figure1.jpg",
+    "status": "Attend"
+  },
+
+
+  {
+    "name": "Zainab",
+    "img": "assets/figure1.jpg",
+    "status": "Attend"
+  },
+
+
+  {
+    "name": "Zainab",
+    "img": "assets/figure1.jpg",
+    "status": "Late"
+  },
+
+
+  {
+    "name": "Alaa",
+    "img": "assets/figure1.jpg",
+    "status": "Absent"
+  },
+
+
+  {
+    "name": "Mashael",
+    "img": "assets/figure1.jpg",
+    "status": "Absent"
+  }
+]
